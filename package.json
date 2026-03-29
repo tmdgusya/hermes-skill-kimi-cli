@@ -1,0 +1,19 @@
+{
+  "name": "kimi-cli",
+  "version": "1.0.0",
+  "description": "Hermes Agent skill for delegating coding tasks to Kimi CLI (Moonshot AI's coding agent)",
+  "keywords": [
+    "kimi",
+    "kimi-cli",
+    "moonshot-ai",
+    "coding-agent",
+    "hermes",
+    "hermes-agent",
+    "skill"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmdgusya/hermes-skill-kimi-cli"
+  }
+}
