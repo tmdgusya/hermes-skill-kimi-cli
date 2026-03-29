@@ -24,7 +24,7 @@ This skill enables Hermes Agent to use Kimi CLI as a coding agent for:
 ## Install
 
 ```bash
-hermes skills install tmdgusya/hermes-skill-kimi-cli
+hermes skills install tmdgusya/hermes-skill-kimi-cli/skills/kimi-cli
 ```
 
 ## Key features
